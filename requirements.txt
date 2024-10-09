@@ -1,0 +1,4 @@
+gradio == 4.44.1
+python-dotenv == 1.0.1
+flask == 3.0.3
+azure-storage-blob == 12.23.1

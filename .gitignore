@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Environments
+.env
+venv/
+
+# Gradio run artifacts
+*.db
+*.sqlite3
+gradio/launches.json
+gradio/hash_seed.txt
+.gradio/
+
+tmp.zip
+
+# Local storage
+uploaded_files/
